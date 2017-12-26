@@ -5,4 +5,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/JayaprakashJayavel/distributed-config.git
+          uri: https://github.com/JayaprakashJayavel/app-config.git
