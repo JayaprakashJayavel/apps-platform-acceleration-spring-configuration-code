@@ -5,9 +5,10 @@ eureka:
     instance-info-replication-interval-seconds: 5
     initial-instance-info-replication-interval-seconds: 6
 
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/JayaprakashJayavel/distributed-config.git
+security:
+  basic:
+    enabled: false
+
+management:
+  security:
+    enabled: false
