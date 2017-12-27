@@ -6,5 +6,5 @@ management:
   security:
     enabled: false
 
-queueName=billing-queue
-billingQueueName=billing-queue
+queueName=umsbilling
+billingQueueName=umsbilling
